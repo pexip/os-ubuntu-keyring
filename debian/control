@@ -1,8 +1,10 @@
 Source: ubuntu-keyring
 Section: misc
 Priority: optional
-Maintainer: Michael Vogt <michael.vogt@canonical.com>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Michael Vogt <michael.vogt@canonical.com>
 Standards-Version: 3.8.3
+XS-Pexip-Upstream: http://archive.ubuntu.com/ubuntu/ precise
 
 Package: ubuntu-keyring
 Priority: important

@@ -1,3 +1,9 @@
+ubuntu-keyring (2011.11.21.1pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 25 Dec 2013 05:00:09 +0000
+
 ubuntu-keyring (2011.11.21.1) precise-proposed; urgency=low
 
   * Add 4096R/C0B21F32 Ubuntu Archive Automatic Signing Key (2012)
